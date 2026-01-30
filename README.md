@@ -141,15 +141,4 @@ This repository is licensed under the CC BY-NC 4.0 License - see the [LICENSE](L
 
 ---
 
-## Contact
-
-For questions or feedback, please reach out:
-
-- **Developer:** Dharmin Joshi / DevKay
-- **Email:** info.dharmin@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/dharmin-joshi-3bab42232/](https://www.linkedin.com/in/dharmin-joshi-3bab42232/)
-- **GitHub:** [https://github.com/DharminJoshi](https://github.com/DharminJoshi)
-
----
-
 **_Happy exploring and good luck with your final year project! 🚀_**
